@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid
+{
+    overflow: scroll;
+}
+.box {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+   
+  }
+  
+.box li {
+    border: 1px solid #ddd; /* Add a thin border to each list item */
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6; /* Add a grey background color */
+    padding: 12px; /* Add some padding */
+    
+  }
+  .box li::before {
+    content: "\2022";
+    color: rgb(6, 97, 30);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: 0;
+    font-size: 25px;
+  }
+
+  .box li:hover
+  {
+      background-color: rgb(11, 164, 52);
+      color: white;
+      transition: 0.5s;
+  }
+  .accordion-button::after
+  {
+      background-image: url("../images/white-arrow-png-41944.png") !important;
+         
+  }
