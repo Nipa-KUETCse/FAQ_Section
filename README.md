@@ -13,7 +13,7 @@ nd laying out our content in multiple columns.
 # Resources
 
 * HTML & CSS ( w3schools )
-* Bootstrap CSS ( https://getbootstrap.com/docs/5.0/getting-started/introduction/ )
+* Bootstrap CSS 5.0 ( https://getbootstrap.com/docs/5.0/getting-started/introduction/ )
 
 # Files
 
