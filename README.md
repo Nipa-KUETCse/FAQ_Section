@@ -1,4 +1,4 @@
-# HTMl
+# HTML
 
 the markup language that we use to structure and give meaning
 to our web content, for example defining paragraphs, headings, and data tables,
