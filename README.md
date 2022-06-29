@@ -17,5 +17,5 @@ nd laying out our content in multiple columns.
 
 # Files
 
-faq.html -> Faq Section Using HTML & Bootstrap CSS
-https://nipa-kuetcse.github.io/FAQ_Section/
+[faq.html](https://nipa-kuetcse.github.io/FAQ_Section) -> Faq Section Using HTML & Bootstrap CSS
+
