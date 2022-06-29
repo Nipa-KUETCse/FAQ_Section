@@ -12,10 +12,11 @@ nd laying out our content in multiple columns.
 
 # Resources
 
-* HTML & CSS ( w3schools )
-* Bootstrap CSS 5.0 ( https://getbootstrap.com/docs/5.0/getting-started/introduction/ )
+* HTML ( [w3schools](https://www.w3schools.com/html/default.asp) )
+* CSS ( [w3schools](https://www.w3schools.com/css/default.asp) )
+* [Bootstrap CSS 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/) 
 
 # Files
 
-[faq.html](https://nipa-kuetcse.github.io/FAQ_Section) -> Faq Section Using HTML & Bootstrap CSS
+faq.html-> Faq Section Using HTML & Bootstrap CSS
 
