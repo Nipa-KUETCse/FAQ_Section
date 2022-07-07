@@ -11,10 +11,10 @@ Cascading Style Sheets is a style sheet language used for describing the present
 
 A free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
-Resources
+## Resources
 
-## [Botstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+* [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Files
 
-[faq.html](https://nipa-kuetcse.github.io/FAQ_Section/) -> Creating Awesome FAQ Using Bootstrap
+* [faq.html](https://nipa-kuetcse.github.io/FAQ_Section/) -> Creating Awesome FAQ Using Bootstrap
