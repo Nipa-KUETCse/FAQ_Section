@@ -20,6 +20,9 @@ A free and open-source CSS framework directed at responsive, mobile-first front-
 * [faq.html](https://nipa-kuetcse.github.io/FAQ_Section/) -> Creating Awesome FAQ Using Bootstrap
 
 
+[faqs]($/FAQ_Section/index.html)
+
+
 
 
 
