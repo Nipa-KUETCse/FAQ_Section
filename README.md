@@ -15,9 +15,7 @@ A free and open-source CSS framework directed at responsive, mobile-first front-
 
 * [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-## Files
 
-* [faq.html](https://nipa-kuetcse.github.io/FAQ_Section/) -> Creating Awesome FAQ Using Bootstrap
 
 
 
