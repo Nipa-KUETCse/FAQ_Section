@@ -19,4 +19,4 @@ A free and open-source CSS framework directed at responsive, mobile-first front-
 
 * [faq.html](https://nipa-kuetcse.github.io/FAQ_Section/) -> Creating Awesome FAQ U,.sing Bootstrap
 
-<a href="index.html">FAQ</a>
+[fq](index.html)
