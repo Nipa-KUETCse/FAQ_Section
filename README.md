@@ -1,2 +1,2 @@
 # Files
-[faq.html](https://nipa-kuetcse.github.io/FAQ_Section/)
+[faq.html](https://https://nipa-kuetcse.github.io/FAQ_Section/index.html)
